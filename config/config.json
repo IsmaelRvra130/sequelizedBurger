@@ -1,9 +1,9 @@
 {
   "development": {
-    "username": "root",
-    "password": "Altima1987",
-    "database": "sequelizeburgers_db",
-    "host": "localhost",
+    "username": "atu0gfaebs8pdm85",
+    "password": "mpdbijwckf8ihzcj",
+    "database": "ow3nzoy0eku0u7y1",
+    "host": "q57yawiwmnaw13d2.cbetxkdyhwsb.us-east-1.rds.amazonaws.com",
     "dialect": "mysql"
   },
   "test": {

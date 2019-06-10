@@ -35,7 +35,7 @@ router.put("/burgers/:id", function(req,res){
    devoured: true
   }, {
     where: {
-      defaultValue: true
+      devoured: "1"
     }
   }).then(function(result){
     console.log(result);
