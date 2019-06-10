@@ -1,0 +1,39 @@
+.containerFooter {
+    height: 70px;
+    width: auto;
+    background-color: rgb(170, 153, 153);
+    color: rgb(250, 226, 226);
+    text-align: center;
+    padding-top: 15px;
+}
+
+.display-4{
+    text-align: center;
+    color: rgb(14, 59, 73);
+    font-size: 85px;
+}
+
+.lead {
+    text-align: center;
+   font-size: 45px;
+    color: rgb(14, 59, 73);
+}
+
+h2 {
+    color: rgb(106, 171, 190);
+    font-family: Arial, Helvetica, sans-serif;
+    
+}
+
+.burger_image{
+    text-align: center;
+    width: 1100px;
+}
+
+body {
+    background-color: black;
+}
+
+p{
+    color: rgba(192, 218, 233, 0.856);
+}

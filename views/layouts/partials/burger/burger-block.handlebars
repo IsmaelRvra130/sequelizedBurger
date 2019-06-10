@@ -1,0 +1,8 @@
+<li>
+    {{<p>{{this.id}}. {{this.burger_name}}</p>}}
+    <button class "devour" data-id="{{this.id}}" data-devour="{{this.devour}}">
+        {{#if this.devour}}eat me{{else}}already eaten{{/if}}
+    </button>
+<!--    <button type="{{this.devour}}" class="devour">Devour</button>-->
+
+</li>
