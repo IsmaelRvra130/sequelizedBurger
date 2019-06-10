@@ -1,4 +1,4 @@
-# Eat-da-burger
+# Eat-da-burger SEQUELIZED!
 Eat-Da-Burger! is a restaurant app that lets users input the names of burgers they'd like to eat.
 
 Whenever a user submits a burger's name, your app will display the burger on the left side of the page -- waiting to be devoured.
@@ -12,8 +12,9 @@ Check out this video of the app for a run-through of how it works.
 
 <h2>Technologies used:</h2>
 <br>
-    <ul>Node.js
-    <ul>Express
-    <ul>Handlebars
-    <ul>Mysql
-    <ul>Bootstrap
+    <ul>Sequelize</ul>
+    <ul>Node.js</ul>
+    <ul>Express</ul>
+    <ul>Handlebars</ul>
+    <ul>Mysql</ul>
+    <ul>Bootstrap</ul>
